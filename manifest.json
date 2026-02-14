@@ -4,7 +4,7 @@
   "lang": "en",
   "name": "Recipts",
   "short_name": "Recipts",
-  "start_url": "/?utm_source=web_app_manifest",
+  "start_url": "/Recipts/?utm_source=web_app_manifest",
   "orientation": "portrait",
   "related_applications": [
     {
@@ -17,5 +17,6 @@
       "id": "com.recipts.app"
     }
   ],
-  "prefer_related_applications": true
+  "prefer_related_applications": true,
+  "scope": "/Recipts/"
 }
